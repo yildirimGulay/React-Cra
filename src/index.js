@@ -6,7 +6,7 @@ import ReactDom from 'react-dom'
     render() {
         return (
             <div>
-              
+              <h1>Hi, react</h1>
             </div>
         )
     }
