@@ -1,3 +1,14 @@
+# ChangeLog
+
+```yarn add -D gh-pages```
+
+package.json / scripts : "deploy": "gh-pages -d build"  ,add
+
+package.json /end of page "homepage":"
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
