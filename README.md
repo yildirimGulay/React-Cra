@@ -2,9 +2,10 @@
 
 ```yarn add -D gh-pages```
 
-package.json / scripts : "deploy": "gh-pages -d build"  ,add
+package.json => scripts : "predeploy":"npm run build",
+                          "deploy": "gh-pages -d build" 
 
-package.json /end of page "homepage":"
+package.json =>end of page "homepage":"https://yildirimgulay.github.io/React-Cra"
 
 
 
