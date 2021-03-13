@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/React-Cra/static/js/main.545f0134.chunk.js",
-    "main.js.map": "/React-Cra/static/js/main.545f0134.chunk.js.map",
+    "main.css": "/React-Cra/static/css/main.6ecd8744.chunk.css",
+    "main.js": "/React-Cra/static/js/main.338354a0.chunk.js",
+    "main.js.map": "/React-Cra/static/js/main.338354a0.chunk.js.map",
     "runtime-main.js": "/React-Cra/static/js/runtime-main.2de7224a.js",
     "runtime-main.js.map": "/React-Cra/static/js/runtime-main.2de7224a.js.map",
-    "static/js/2.7d259c8f.chunk.js": "/React-Cra/static/js/2.7d259c8f.chunk.js",
-    "static/js/2.7d259c8f.chunk.js.map": "/React-Cra/static/js/2.7d259c8f.chunk.js.map",
+    "static/js/2.07774128.chunk.js": "/React-Cra/static/js/2.07774128.chunk.js",
+    "static/js/2.07774128.chunk.js.map": "/React-Cra/static/js/2.07774128.chunk.js.map",
     "index.html": "/React-Cra/index.html",
-    "static/js/2.7d259c8f.chunk.js.LICENSE.txt": "/React-Cra/static/js/2.7d259c8f.chunk.js.LICENSE.txt"
+    "static/css/main.6ecd8744.chunk.css.map": "/React-Cra/static/css/main.6ecd8744.chunk.css.map",
+    "static/js/2.07774128.chunk.js.LICENSE.txt": "/React-Cra/static/js/2.07774128.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2de7224a.js",
-    "static/js/2.7d259c8f.chunk.js",
-    "static/js/main.545f0134.chunk.js"
+    "static/js/2.07774128.chunk.js",
+    "static/css/main.6ecd8744.chunk.css",
+    "static/js/main.338354a0.chunk.js"
   ]
 }
