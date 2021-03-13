@@ -8,6 +8,11 @@ package.json => scripts : "predeploy":"npm run build",
 package.json =>end of page "homepage":"https://yildirimgulay.github.io/React-Cra"
 
 
+commit then ```yarn start```
+
+git-hub project => settings=> gitHub pages =>  Branch : gh-pages and Save
+
+
 
 
 # Getting Started with Create React App
