@@ -12,6 +12,8 @@ commit then ```yarn start```
 
 git-hub project => settings=> gitHub pages =>  Branch : gh-pages and Save
 
+don't forget ``yarn deploy``
+
 
 
 
