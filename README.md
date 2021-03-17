@@ -10,9 +10,11 @@ package.json =>end of page "homepage":"https://yildirimgulay.github.io/React-Cra
 
 commit then ```yarn start```
 
+don't forget ``yarn deploy``
+
 git-hub project => settings=> gitHub pages =>  Branch : gh-pages and Save
 
-don't forget ``yarn deploy``
+
 
 
 
